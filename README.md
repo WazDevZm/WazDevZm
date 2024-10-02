@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Wazingwa Mugala</h1>
 <h3 align="center">A passionate Machine Learning Engineer (learning)*</h3>
 
