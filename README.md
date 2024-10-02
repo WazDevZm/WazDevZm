@@ -4,7 +4,6 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="wazdevzm" alt="Coding is fun" width="400" align="right" /> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wazdevzm" alt="wazdevzm" /></a> </p>
 
 - 🔭 I’m currently working on **MediPredict**
 
