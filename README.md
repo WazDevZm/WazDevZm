@@ -19,11 +19,11 @@
 
 - 📫 How to reach me **wazingwa@codesavanna.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wazingwa-mugala?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bfctgn0rETfmqO2odyAaJbg%3D%3D](https://www.linkedin.com/in/wazingwa-mugala?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bfctgn0rETfmqO2odyAaJbg%3D%3D)
+- 📄 Know about my experiences **Wazingwa Mugala**
 
 - ⚡ Fun fact **I love studying**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 0763299861</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wazingwa mugala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wazingwa mugala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/go ye therefore zambia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="go ye therefore zambia" height="30" width="40" /></a>
