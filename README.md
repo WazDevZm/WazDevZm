@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **MediPredict**
 
-- 🌱 I’m currently learning **React.js, Pythons and ML concepts.**
+- 🌱 I’m currently learning **React.js, Python and ML concepts.**
 
 - 👯 I’m looking to collaborate on **Any ML projects**
 
-- 🤝 I’m looking for help with **More ML learning resources (simplified)(**
+- 🤝 I’m looking for help with **More ML learning resources (simplified)**
 
 - 👨‍💻 All of my projects are available at [https://wazingwamugala.onrender.com/](https://wazingwamugala.onrender.com/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **wazingwa@codesavanna.org**
 
-- 📄 Know about my experiences **Wazingwa Mugala**
+- 📄 Know about my experiences **Wazingwa Mugala@ LinkedIn**
 
 - ⚡ Fun fact **I love studying**
 
