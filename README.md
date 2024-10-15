@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wazingwa Mugala</h1>
 <h3 align="center">A passionate Machine Learning Engineer (in training)</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding is fun" width="400" align="right" /> 
+<div align="center">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding is fun" width="400" /> 
+</div>
 
 - 🔭 I’m currently working on **MediPredict**
 - 🌱 I’m learning **React.js, Python, and ML concepts**
@@ -10,13 +12,17 @@
 - 👨‍💻 Check out my projects: [wazingwamugala.onrender.com](https://wazingwamugala.onrender.com/)
 - 💬 Ask me about **MA 110 (CBU Math)**
 - 📫 Reach me at: **wazingwa@codesavanna.org**
-- 📄 My experiences: **[LinkedIn](https://linkedin.com/in/wazingwamugala)** 
+- 📄 My experiences: **[LinkedIn](https://linkedin.com/in/wazingwamugala)**
 - ⚡ Fun fact: **I love studying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/wazingwamugala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wazingwa Mugala" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/goyethereforezambia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Go Ye Therefore Zambia" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/wazingwamugala" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/goyethereforezambia" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
