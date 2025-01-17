@@ -6,7 +6,7 @@
 ### <div align="center">Hello there👋</div>  
   
 
-- 🔭I'm currently an intern at Code Savanna  
+- 🔭I'm currently studying Computer Engineering at The Copperbelt University.
   
 
 - 🌱 I’m currently learning Machine Learning and AI  
