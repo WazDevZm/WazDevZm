@@ -2,7 +2,7 @@
 
 # 👋 Hello there, I'm Wazingwa Mugala  
 
-🌟 Passionate **Computer Science Student** | 💻 Aspiring **AI & ML Engineer** | 🚀 Lifelong Learner  
+🌟 Passionate **Computer Engineering Student** | 💻 Aspiring **AI & ML Engineer** | 🚀 Lifelong Learner  
 
 </div>
 
