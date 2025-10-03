@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello there, I'm Wazingwa Mugala  
+# 👋 Hello!, I'm Wazingwa Mugala  
 
 🌟 Passionate **Computer Engineering Student** | 💻 Aspiring **AI & ML Engineer** | 🚀 Lifelong Learner  
 
