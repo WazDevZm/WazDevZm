@@ -6,7 +6,7 @@
 
 ---
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineering Student @ CBU
 💻 Passionate about Software Development  
 🤖 Aspiring AI & Machine Learning Engineer  
 🚀 Building solutions that create impact  
