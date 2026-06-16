@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Wazingwa Mugala
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&center=true&vCenter=true&lines=Software+Engineering;AI+%26+Machine+Learning;Computer+Engineering+Student;Deep+Learnining" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&center=true&vCenter=true&lines=Software+Engineering;AI+%26+Machine+Learning;Computer+Engineering+Student;Deep+Learning" />
 
 
 <div align="center">
